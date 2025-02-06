@@ -1,8 +1,55 @@
-# React + Vite
+# Testimonial App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Testimonial App** built using **React.js, Vite, and Tailwind CSS**. This app allows users to view dynamic testimonials with smooth transitions and an optimized UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Fast and Optimized**: Built with **Vite** for lightning-fast performance.  
+- **Dynamic Testimonials**: Displays user testimonials with a smooth UI experience.  
+- **Responsive Design**: Fully adaptable to different screen sizes using **Tailwind CSS**.  
+- **Modern UI**: Clean and minimal interface for a seamless user experience.  
+- **State Management**: Efficient handling of UI updates using **React Hooks**.  
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Vite, Tailwind CSS  
+- **State Management**: React Hooks  
+- **Styling**: Tailwind CSS  
+
+## 📦 Installation
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/krisprajapati03/Testimoneal.git
+   cd Testimoneal
+
+2. **Install dependencies**
+  ```bash
+  npm install
+```
+
+3. Start the development server
+  ```bash
+  npm run dev
+```
+
+**📌 Project Structure**
+
+Testimoneal/
+│── src/
+│   ├── components/       # Reusable components
+│   ├── assets/           # Images and icons
+│   ├── App.jsx           # Main application file
+│   ├── index.js          # Entry point
+│── public/               # Static files
+│── package.json          # Dependencies and scripts
+│── README.md             # Project documentation
+
+
+**📬 Contact**
+
+Author: Kris Prajapati
+GitHub: krisprajapati03
+LinkedIn: krisprajapati
