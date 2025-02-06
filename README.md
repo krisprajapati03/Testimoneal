@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
   npm run dev
 ```
 
-##📬 Contact
+## 📬 Contact
 
 Author: Kris Prajapati
 GitHub: krisprajapati03
