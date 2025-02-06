@@ -21,22 +21,22 @@ A modern and responsive **Testimonial App** built using **React.js, Vite, and Ta
 Follow these steps to run the project locally:
 
 1. **Clone the repository**  
-   ```bash
+```bash
    git clone https://github.com/krisprajapati03/Testimoneal.git
    cd Testimoneal
+```
 
 2. **Install dependencies**
-  ```bash
+```bash
   npm install
 ```
 
 3. Start the development server
-  ```bash
+```bash
   npm run dev
 ```
 
-```
-**📬 Contact**
+##📬 Contact
 
 Author: Kris Prajapati
 GitHub: krisprajapati03
