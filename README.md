@@ -35,19 +35,7 @@ Follow these steps to run the project locally:
   npm run dev
 ```
 
-**📌 Project Structure**
-
-Testimoneal/
-│── src/
-│   ├── components/       # Reusable components
-│   ├── assets/           # Images and icons
-│   ├── App.jsx           # Main application file
-│   ├── index.js          # Entry point
-│── public/               # Static files
-│── package.json          # Dependencies and scripts
-│── README.md             # Project documentation
-
-
+```
 **📬 Contact**
 
 Author: Kris Prajapati
